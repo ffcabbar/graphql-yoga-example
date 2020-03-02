@@ -1,9 +1,9 @@
 # graphql-yoga-example
 A simple example of a graphql server. 
 
-# hello-world
+# Eat and Fun
 
-This directory contains a simple "Random Eat" example based on `graphql-yoga`.
+This directory contains a simple "Random Eat and Fun" example based on `graphql-yoga`.
 
 ## Get started
 
