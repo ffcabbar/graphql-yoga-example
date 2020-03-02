@@ -44,3 +44,9 @@ The server returns the following response:
 }
 ```
 
+## Playground
+
+![Screenshot](https://user-images.githubusercontent.com/34713212/75655278-8ecc4400-5c72-11ea-8557-30ff7f4c337e.png)
+
+
+
